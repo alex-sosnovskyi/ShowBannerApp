@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShowBannerApp</string>
+    <string name="search_button_name">search_button_name</string>
+    <string name="back_button">Back</string>
+</resources>
